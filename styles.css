@@ -1,0 +1,54 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #2F8F9D;
+}
+
+h1 {
+  margin: 36px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 1px #001D6E;
+  font-size: 8rem;
+  color: #82DBD8;
+}
+
+p {
+  font-size: 2rem;
+  color: #90C8AC;
+  font-family: 'Indie Flower', cursive;
+}
+
+img {
+  width: 80%;
+}
+button{
+  padding: 5px 20px;
+  font-size: 2rem;
+  border-radius: 4px;
+  margin: 3rem;
+  background: #4fcb8d;
+  color: #001D6E;
+  box-shadow: 2px 0 #001D6E;
+  border-color: #6ed4a1;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Ubuntu', sans-serif;
+}
+footer {
+  margin-top: 2.5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-size: 1.4rem;
+  font-family: 'Indie Flower', cursive;
+
+}
